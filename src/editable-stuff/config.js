@@ -12,6 +12,14 @@ const mainBody = {
   subtitle: "Laboratories",
   message: " Engineering your next idea. ",
   icons: [
+    {
+      image: "fa-telegram",
+      url: "https://t.me/aidealabs",
+    },
+    {
+      image: "fa-envelope",
+      url: "mailto:aidea.founders@gmail.com?subject=Reaching%20out",
+    },
   ],
 };
 
